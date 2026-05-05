@@ -30,7 +30,6 @@ I aim to create scalable AI solutions and decision-driven dashboards that solve 
 ### 🤖 AI / ML
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
 
 ### 📊 Data
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
