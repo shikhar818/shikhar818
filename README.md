@@ -51,7 +51,6 @@ I aim to create scalable AI solutions and decision-driven dashboards that solve 
 
 ## 🤝 Let's Connect
 
-💼 Open to Data Analyst opportunities  
 📧 shikhar818@gmail.com  
 🔗 https://www.linkedin.com/in/shikhar818/
 
