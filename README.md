@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shikhar Srivastava
 
-🚀 AI/ML  | Data Analyst | Automation Builder  
+🚀  // Data Systems · Analytics · AI Applications
 📍 India  
 📫 shikhar818@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/shikhar818/
@@ -14,7 +14,6 @@ I build intelligent AI systems and transform raw data into actionable insights.
 My work focuses on:
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
-- Model Deployment
 - Data Analysis & Visualization
 - Automation & Workflow Optimization
 
