@@ -13,7 +13,7 @@ I build intelligent AI systems and transform raw data into actionable insights.
 
 My work focuses on:
 - Retrieval-Augmented Generation (RAG)
-- Data Eningeering
+- Data Engineering
 - Data Analysis & Visualization
 - Automation & Workflow Optimization
 
