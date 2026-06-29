@@ -14,7 +14,7 @@ I build intelligent AI systems and transform raw data into actionable insights.
 My work focuses on:
 - Data Analysis & Visualization
 - Automation & Workflow Optimization
-- - Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
 I aim to create scalable AI solutions and decision-driven dashboards that solve real-world problems.
 
 ---
